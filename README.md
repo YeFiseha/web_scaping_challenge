@@ -19,20 +19,20 @@ The dataset is analyzed by using Pandas functions – and the findings are:
 1. Number of months on Mars
 2. Number of Martian (and not Earth) days worth of data in the dataset
 3. coldest and the warmest months on Mars:
-3.1 average minimum daily temperature for all the months on Mars
-3.2 results are plotted on a bar chart
+(3.1) average minimum daily temperature for all the months on Mars,
+(3.2) results are plotted on a bar chart
 4. months with the lowest and highest atmospheric pressure on Mars:
-4.1 average daily atmospheric pressure of all the months
-4.2 results are plotted on a bar chart
+(4.1) average daily atmospheric pressure of all the months
+(4.2) results are plotted on a bar chart
 5. number of terrestrial (Earth) days in a Martian year
-5.1 number of days elapsed on Earth in the time that Mars circles the Sun once
-5.2 A visual estimate by plotting daily minimum temperature 
+(5.1) number of days elapsed on Earth in the time that Mars circles the Sun once
+(5.2) A visual estimate by plotting daily minimum temperature 
 6. 	DataFrame is exported to a CSV file
 
 # References
-Part_1_mars_news.ipy file is for the first part of the assignment: scraping titles and preview of text from Mars news articles.
-Part_2_mars_weathers.ipy file is for the second part of the assignment: scraping and analyzing Mars weather data.
-mars_weather_data.csv is the DataFrame exported to a csv file.
+1. Part_1_mars_news.ipy file is for the first part of the assignment: scraping titles and preview of text from Mars news articles.
+2. Part_2_mars_weathers.ipy file is for the second part of the assignment: scraping and analyzing Mars weather data.
+3. mars_weather_data.csv is the DataFrame exported to a csv file.
 
 
 
